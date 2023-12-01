@@ -1,12 +1,10 @@
 # tp_seance_5
 
-A new Flutter project.
+A training Flutter Project.
 
-## Getting Started
+##Firestore tries
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+I'm practicing on how to use Firestore Cloud and make a CRUD in dart.
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
